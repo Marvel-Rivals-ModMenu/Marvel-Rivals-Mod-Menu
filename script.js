@@ -1,0 +1,1 @@
+console.log("Marvel Rivals Mod Menu is active!");
